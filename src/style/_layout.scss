@@ -3,3 +3,14 @@
 body {
     background-color: $primary-color;
 }
+
+.main {
+    background-color: transparent;
+    border-radius: 40px;
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
