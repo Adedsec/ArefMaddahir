@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ArefMaddahir/static/css/main.500673c7.chunk.css",
+    "main.css": "/ArefMaddahir/static/css/main.b169a8d1.chunk.css",
     "main.js": "/ArefMaddahir/static/js/main.fa8adfd2.chunk.js",
     "main.js.map": "/ArefMaddahir/static/js/main.fa8adfd2.chunk.js.map",
     "runtime-main.js": "/ArefMaddahir/static/js/runtime-main.f3de45c6.js",
@@ -9,10 +9,10 @@
     "static/js/2.f90a249a.chunk.js": "/ArefMaddahir/static/js/2.f90a249a.chunk.js",
     "static/js/2.f90a249a.chunk.js.map": "/ArefMaddahir/static/js/2.f90a249a.chunk.js.map",
     "index.html": "/ArefMaddahir/index.html",
-    "precache-manifest.b1588a29ee91fe7b75aba00809d64554.js": "/ArefMaddahir/precache-manifest.b1588a29ee91fe7b75aba00809d64554.js",
+    "precache-manifest.5c7f09cae3a5e263ebbbdb4cd89286fb.js": "/ArefMaddahir/precache-manifest.5c7f09cae3a5e263ebbbdb4cd89286fb.js",
     "service-worker.js": "/ArefMaddahir/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/ArefMaddahir/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.500673c7.chunk.css.map": "/ArefMaddahir/static/css/main.500673c7.chunk.css.map",
+    "static/css/main.b169a8d1.chunk.css.map": "/ArefMaddahir/static/css/main.b169a8d1.chunk.css.map",
     "static/js/2.f90a249a.chunk.js.LICENSE.txt": "/ArefMaddahir/static/js/2.f90a249a.chunk.js.LICENSE.txt",
     "static/media/logo.5d5d9eef.svg": "/ArefMaddahir/static/media/logo.5d5d9eef.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.f3de45c6.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.f90a249a.chunk.js",
-    "static/css/main.500673c7.chunk.css",
+    "static/css/main.b169a8d1.chunk.css",
     "static/js/main.fa8adfd2.chunk.js"
   ]
 }
