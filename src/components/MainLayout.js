@@ -12,6 +12,7 @@ class MainLayout extends React.Component {
           followMouse={true}
           targetElement={this.props.targetID}
           useTwinkleEffect={true}
+          snowColor="#b5faff"
         />
         {this.props.children}
       </div>

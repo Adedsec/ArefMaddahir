@@ -7,6 +7,11 @@
     font-size: 2.25rem;
     color: $secondary-color;
     text-shadow: 2px 2px 4px #000000;
+
+    &:hover {
+      transform: scale(1.25);
+      color: $third-color;
+    }
   }
 
   &-container {
