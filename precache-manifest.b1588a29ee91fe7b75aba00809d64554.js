@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26e22741bedc710f0f903867ac7de603",
+    "revision": "683bf93e89f45ad77001db0e06dca51c",
     "url": "/ArefMaddahir/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ArefMaddahir/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "7fa4229e0ab8807c941c",
-    "url": "/ArefMaddahir/static/css/main.c8a4d259.chunk.css"
+    "revision": "8a91ae079c0b15f09a11",
+    "url": "/ArefMaddahir/static/css/main.500673c7.chunk.css"
   },
   {
     "revision": "6ab5774baeb9482381a7",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ArefMaddahir/static/js/2.f90a249a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7fa4229e0ab8807c941c",
+    "revision": "8a91ae079c0b15f09a11",
     "url": "/ArefMaddahir/static/js/main.fa8adfd2.chunk.js"
   },
   {
